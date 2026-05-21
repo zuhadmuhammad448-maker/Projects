@@ -1,9 +1,6 @@
 """
 Computational Illustration: Heat Engines & Pollution
-Course: Physics of Climate Change — TU Darmstadt
-Author: Muhammad Zuhad
 
-This script generates three publication-quality plots:
   1. Carnot efficiency vs. hot reservoir temperature
   2. Otto efficiency vs. compression ratio
   3. Bar chart of major pollutants from combustion engines
